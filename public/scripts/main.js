@@ -3,7 +3,7 @@
  * Provides the JavaScript interactions for all pages.
  *
  * @author 
- * PUT_YOUR_NAME_HERE
+ * S1G2 CSSE333
  */
 
 /** namespace. */
@@ -17,7 +17,8 @@ rhit.functionName = function () {
 	/** function body */
 };
 
-rhit.ClassName = class {
+/* Controls the login page (login.html) */
+rhit.loginPageController = class {
 	constructor() {
 
 	}
@@ -26,6 +27,53 @@ rhit.ClassName = class {
 
 	}
 }
+
+/* Controls the homepage (index.html) */
+rhit.homePageController = class {
+	constructor() {
+
+	}
+
+	methodName() {
+
+	}
+}
+
+
+/* Controls the game pages (Names TBD)  */
+rhit.gamePageController = class {
+	constructor() {
+
+	}
+
+	methodName() {
+
+	}
+}
+
+/* Manages the User class */
+rhit.userManager = class {
+	constructor() {
+
+	}
+
+	methodName() {
+
+	}
+}
+
+/* User class, to store information about a user of Vapor */
+rhit.user = class {
+	constructor() {
+
+	}
+
+	methodName() {
+
+	}
+}
+
+
 
 /* Main */
 /** function and class syntax examples */
